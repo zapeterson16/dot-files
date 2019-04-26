@@ -1,5 +1,0 @@
-# CAEN
-Host zp
-	HostName login.engin.umich.edu
-	User zachp
-	Compression yes
